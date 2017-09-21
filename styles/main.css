@@ -1,0 +1,60 @@
+
+html { 
+    /*Photo by Lukas Blazek on Unsplash*/
+    background: url(../images/background.jpg) no-repeat center center fixed; 
+    background-size: cover;
+    
+    
+}
+
+.basic-info {
+    background-color: #edf1f3;
+    height: 400px;
+    width: 1000px;
+    //padding: 10px 20px 20px 40px;
+    margin: 50px auto;
+    font-family: Arial;
+}
+
+.profile-pic {
+    padding-top: 20px;
+    padding-left: 20px;
+    height: 360px;
+    width: 360px;
+}
+
+.name {
+    font-size: 2.3rem;
+    color: 	#0aa966;
+}
+
+.im {
+    font-size: 1.8rem;
+}
+
+.about {
+    background-color: #edf1f3;
+    height: 150px;
+    width: 980px;
+    padding-top: 10px;
+    padding-left: 20px;
+    margin: 50px auto;
+    font-family:Arial;
+}
+
+.skills {
+    font-size: 1.4rem;
+    font-family:Tahoma;
+}
+
+.hello {
+    background-color: #0aa966;
+    color: white;
+    font-size: 1.5rem;
+    padding: 10px 10px 10px 10px;
+    font-family: cursive;
+}
+
+.contacts {
+    padding: 10px 10px 10px 10px;
+}

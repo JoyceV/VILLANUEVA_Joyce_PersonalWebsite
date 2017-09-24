@@ -1,0 +1,37 @@
+html { 
+    background: url(../images/home_background.jpg) no-repeat center center fixed; 
+    background-size: cover;  
+    background-position: 100% 40%;
+}
+.home-page {
+    color: #edf1f3;
+    font-size: 2rem;
+    background-color: rgba(0,0,0,0.7);
+    border-radius: 50px;
+    width: 720px;
+    height: 500px;
+    margin: 50px 50px;
+    padding: 1px 50px;
+}
+
+.lname {
+    font-size: 7rem;
+    color: #06a562;
+}
+
+.quote {
+    font-family: 'Satisfy', cursive;
+    font-size: 1.8rem;
+    padding-left: 10px;
+}
+
+.home-name {
+    text-align: center;
+}
+
+h1 {
+    font-family: 'Roboto', sans-serif;
+}
+
+
+

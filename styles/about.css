@@ -1,0 +1,23 @@
+html { 
+    background-color: #edf1f3;
+}
+p {
+    text-indent: 50px;
+    text-align: justify;
+    padding: 0 20px 0 20px;
+}
+
+.about-box {
+    padding: 50px 20px 20px 20px;
+    margin: auto;
+    width: 50%;
+    border: 5px double;
+    border-color: #06a562;
+}
+
+img.center {
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-bottom: 20px;
+}

@@ -3,7 +3,7 @@ html {
 }
 
 .about-box {
-    padding: 30px 35px 20px 20px;
+    padding: 10px 35px 20px 20px;
     margin: auto;
     width: 50%;
     border: 5px double;
@@ -28,4 +28,9 @@ img.center {
     text-indent: 50px;
     text-align: justify;
     padding: 0 20px 0 20px;
+}
+
+h1 {
+    text-align: center;
+    font-family: 'Libre Baskerville', serif;
 }

@@ -12,9 +12,8 @@ html {
     border-radius: 50px;
     width: 50%;
     height: 400px;
-    margin: 13% 50px;
+    margin: 14% 50px 5%;
     padding: auto 50px;
-    margin-bottom: 0;
     padding-bottom: 0;
     overflow: auto;
 }
@@ -43,6 +42,8 @@ body {
     margin-left: auto;
     margin-right: auto;
 }
+
+
 
 
 
